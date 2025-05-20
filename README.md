@@ -1,10 +1,11 @@
--# Hi, I'm Ziyad 👋
+-# Hi, I'm Ziyad 
 
-🔐 Cybersecurity Learner | Python Enthusiast | Building Real-World Tools
+🚀 I'm an aspiring cybersecurity analyst learning by building real-world tools.
 
-- 🔭 Currently building: Phishing Email Detector with Auto-Quarantine
-- 🌱 Learning Python, Linux, Networking & Threat Detection
-- 💼 Exploring careers in ethical hacking and SOC analyst roles
+🔐 Current Project: Phishing Email Detector with Auto-Quarantine  
+🛠️ Learning Stack: Python, Git, Linux, Cybersecurity Tools  
+🎯 Goal: To build a strong GitHub portfolio and land my first cybersecurity job in 2025
+
 - 📫 How to reach me: ziyadkh992@gmail.com
 
 Stay tuned as I build, learn, and secure! 💻
